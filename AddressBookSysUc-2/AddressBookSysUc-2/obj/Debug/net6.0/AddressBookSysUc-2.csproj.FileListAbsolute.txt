@@ -1,0 +1,15 @@
+C:\RFP\C_sharp\AddressBookSysUc-2\AddressBookSysUc-2\bin\Debug\net6.0\AddressBookSysUc-2.exe
+C:\RFP\C_sharp\AddressBookSysUc-2\AddressBookSysUc-2\bin\Debug\net6.0\AddressBookSysUc-2.deps.json
+C:\RFP\C_sharp\AddressBookSysUc-2\AddressBookSysUc-2\bin\Debug\net6.0\AddressBookSysUc-2.runtimeconfig.json
+C:\RFP\C_sharp\AddressBookSysUc-2\AddressBookSysUc-2\bin\Debug\net6.0\AddressBookSysUc-2.dll
+C:\RFP\C_sharp\AddressBookSysUc-2\AddressBookSysUc-2\bin\Debug\net6.0\AddressBookSysUc-2.pdb
+C:\RFP\C_sharp\AddressBookSysUc-2\AddressBookSysUc-2\obj\Debug\net6.0\AddressBookSysUc-2.csproj.AssemblyReference.cache
+C:\RFP\C_sharp\AddressBookSysUc-2\AddressBookSysUc-2\obj\Debug\net6.0\AddressBookSysUc-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\RFP\C_sharp\AddressBookSysUc-2\AddressBookSysUc-2\obj\Debug\net6.0\AddressBookSysUc-2.AssemblyInfoInputs.cache
+C:\RFP\C_sharp\AddressBookSysUc-2\AddressBookSysUc-2\obj\Debug\net6.0\AddressBookSysUc-2.AssemblyInfo.cs
+C:\RFP\C_sharp\AddressBookSysUc-2\AddressBookSysUc-2\obj\Debug\net6.0\AddressBookSysUc-2.csproj.CoreCompileInputs.cache
+C:\RFP\C_sharp\AddressBookSysUc-2\AddressBookSysUc-2\obj\Debug\net6.0\AddressBookSysUc-2.dll
+C:\RFP\C_sharp\AddressBookSysUc-2\AddressBookSysUc-2\obj\Debug\net6.0\refint\AddressBookSysUc-2.dll
+C:\RFP\C_sharp\AddressBookSysUc-2\AddressBookSysUc-2\obj\Debug\net6.0\AddressBookSysUc-2.pdb
+C:\RFP\C_sharp\AddressBookSysUc-2\AddressBookSysUc-2\obj\Debug\net6.0\AddressBookSysUc-2.genruntimeconfig.cache
+C:\RFP\C_sharp\AddressBookSysUc-2\AddressBookSysUc-2\obj\Debug\net6.0\ref\AddressBookSysUc-2.dll
