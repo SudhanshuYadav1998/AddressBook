@@ -1,0 +1,15 @@
+C:\RFP\C sharp\Day-9-AdressBook\Day-9-AdressBook\bin\Debug\net6.0\Day-9-WelcomeToAdressBook.exe
+C:\RFP\C sharp\Day-9-AdressBook\Day-9-AdressBook\bin\Debug\net6.0\Day-9-WelcomeToAdressBook.deps.json
+C:\RFP\C sharp\Day-9-AdressBook\Day-9-AdressBook\bin\Debug\net6.0\Day-9-WelcomeToAdressBook.runtimeconfig.json
+C:\RFP\C sharp\Day-9-AdressBook\Day-9-AdressBook\bin\Debug\net6.0\Day-9-WelcomeToAdressBook.dll
+C:\RFP\C sharp\Day-9-AdressBook\Day-9-AdressBook\bin\Debug\net6.0\Day-9-WelcomeToAdressBook.pdb
+C:\RFP\C sharp\Day-9-AdressBook\Day-9-AdressBook\obj\Debug\net6.0\Day-9-WelcomeToAdressBook.csproj.AssemblyReference.cache
+C:\RFP\C sharp\Day-9-AdressBook\Day-9-AdressBook\obj\Debug\net6.0\Day-9-WelcomeToAdressBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\RFP\C sharp\Day-9-AdressBook\Day-9-AdressBook\obj\Debug\net6.0\Day-9-WelcomeToAdressBook.AssemblyInfoInputs.cache
+C:\RFP\C sharp\Day-9-AdressBook\Day-9-AdressBook\obj\Debug\net6.0\Day-9-WelcomeToAdressBook.AssemblyInfo.cs
+C:\RFP\C sharp\Day-9-AdressBook\Day-9-AdressBook\obj\Debug\net6.0\Day-9-WelcomeToAdressBook.csproj.CoreCompileInputs.cache
+C:\RFP\C sharp\Day-9-AdressBook\Day-9-AdressBook\obj\Debug\net6.0\Day-9-WelcomeToAdressBook.dll
+C:\RFP\C sharp\Day-9-AdressBook\Day-9-AdressBook\obj\Debug\net6.0\refint\Day-9-WelcomeToAdressBook.dll
+C:\RFP\C sharp\Day-9-AdressBook\Day-9-AdressBook\obj\Debug\net6.0\Day-9-WelcomeToAdressBook.pdb
+C:\RFP\C sharp\Day-9-AdressBook\Day-9-AdressBook\obj\Debug\net6.0\Day-9-WelcomeToAdressBook.genruntimeconfig.cache
+C:\RFP\C sharp\Day-9-AdressBook\Day-9-AdressBook\obj\Debug\net6.0\ref\Day-9-WelcomeToAdressBook.dll
