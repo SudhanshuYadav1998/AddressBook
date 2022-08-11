@@ -1,0 +1,15 @@
+C:\RFP\C_sharp\Day-23-UC7-AddressBookDuplicateCheck\Day-23-UC7-AddressBookDuplicateCheck\bin\Debug\net6.0\Day-23-UC7-AddressBookDuplicateCheck.exe
+C:\RFP\C_sharp\Day-23-UC7-AddressBookDuplicateCheck\Day-23-UC7-AddressBookDuplicateCheck\bin\Debug\net6.0\Day-23-UC7-AddressBookDuplicateCheck.deps.json
+C:\RFP\C_sharp\Day-23-UC7-AddressBookDuplicateCheck\Day-23-UC7-AddressBookDuplicateCheck\bin\Debug\net6.0\Day-23-UC7-AddressBookDuplicateCheck.runtimeconfig.json
+C:\RFP\C_sharp\Day-23-UC7-AddressBookDuplicateCheck\Day-23-UC7-AddressBookDuplicateCheck\bin\Debug\net6.0\Day-23-UC7-AddressBookDuplicateCheck.dll
+C:\RFP\C_sharp\Day-23-UC7-AddressBookDuplicateCheck\Day-23-UC7-AddressBookDuplicateCheck\bin\Debug\net6.0\Day-23-UC7-AddressBookDuplicateCheck.pdb
+C:\RFP\C_sharp\Day-23-UC7-AddressBookDuplicateCheck\Day-23-UC7-AddressBookDuplicateCheck\obj\Debug\net6.0\Day-23-UC7-AddressBookDuplicateCheck.csproj.AssemblyReference.cache
+C:\RFP\C_sharp\Day-23-UC7-AddressBookDuplicateCheck\Day-23-UC7-AddressBookDuplicateCheck\obj\Debug\net6.0\Day-23-UC7-AddressBookDuplicateCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\RFP\C_sharp\Day-23-UC7-AddressBookDuplicateCheck\Day-23-UC7-AddressBookDuplicateCheck\obj\Debug\net6.0\Day-23-UC7-AddressBookDuplicateCheck.AssemblyInfoInputs.cache
+C:\RFP\C_sharp\Day-23-UC7-AddressBookDuplicateCheck\Day-23-UC7-AddressBookDuplicateCheck\obj\Debug\net6.0\Day-23-UC7-AddressBookDuplicateCheck.AssemblyInfo.cs
+C:\RFP\C_sharp\Day-23-UC7-AddressBookDuplicateCheck\Day-23-UC7-AddressBookDuplicateCheck\obj\Debug\net6.0\Day-23-UC7-AddressBookDuplicateCheck.csproj.CoreCompileInputs.cache
+C:\RFP\C_sharp\Day-23-UC7-AddressBookDuplicateCheck\Day-23-UC7-AddressBookDuplicateCheck\obj\Debug\net6.0\Day-23-UC7-AddressBookDuplicateCheck.dll
+C:\RFP\C_sharp\Day-23-UC7-AddressBookDuplicateCheck\Day-23-UC7-AddressBookDuplicateCheck\obj\Debug\net6.0\refint\Day-23-UC7-AddressBookDuplicateCheck.dll
+C:\RFP\C_sharp\Day-23-UC7-AddressBookDuplicateCheck\Day-23-UC7-AddressBookDuplicateCheck\obj\Debug\net6.0\Day-23-UC7-AddressBookDuplicateCheck.pdb
+C:\RFP\C_sharp\Day-23-UC7-AddressBookDuplicateCheck\Day-23-UC7-AddressBookDuplicateCheck\obj\Debug\net6.0\Day-23-UC7-AddressBookDuplicateCheck.genruntimeconfig.cache
+C:\RFP\C_sharp\Day-23-UC7-AddressBookDuplicateCheck\Day-23-UC7-AddressBookDuplicateCheck\obj\Debug\net6.0\ref\Day-23-UC7-AddressBookDuplicateCheck.dll
