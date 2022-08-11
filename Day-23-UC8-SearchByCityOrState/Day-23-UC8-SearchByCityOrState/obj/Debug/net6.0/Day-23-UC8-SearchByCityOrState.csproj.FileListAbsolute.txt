@@ -1,0 +1,15 @@
+C:\RFP\C_sharp\Day-23-UC8-SearchByCityOrState\Day-23-UC8-SearchByCityOrState\bin\Debug\net6.0\Day-23-UC8-SearchByCityOrState.exe
+C:\RFP\C_sharp\Day-23-UC8-SearchByCityOrState\Day-23-UC8-SearchByCityOrState\bin\Debug\net6.0\Day-23-UC8-SearchByCityOrState.deps.json
+C:\RFP\C_sharp\Day-23-UC8-SearchByCityOrState\Day-23-UC8-SearchByCityOrState\bin\Debug\net6.0\Day-23-UC8-SearchByCityOrState.runtimeconfig.json
+C:\RFP\C_sharp\Day-23-UC8-SearchByCityOrState\Day-23-UC8-SearchByCityOrState\bin\Debug\net6.0\Day-23-UC8-SearchByCityOrState.dll
+C:\RFP\C_sharp\Day-23-UC8-SearchByCityOrState\Day-23-UC8-SearchByCityOrState\bin\Debug\net6.0\Day-23-UC8-SearchByCityOrState.pdb
+C:\RFP\C_sharp\Day-23-UC8-SearchByCityOrState\Day-23-UC8-SearchByCityOrState\obj\Debug\net6.0\Day-23-UC8-SearchByCityOrState.csproj.AssemblyReference.cache
+C:\RFP\C_sharp\Day-23-UC8-SearchByCityOrState\Day-23-UC8-SearchByCityOrState\obj\Debug\net6.0\Day-23-UC8-SearchByCityOrState.GeneratedMSBuildEditorConfig.editorconfig
+C:\RFP\C_sharp\Day-23-UC8-SearchByCityOrState\Day-23-UC8-SearchByCityOrState\obj\Debug\net6.0\Day-23-UC8-SearchByCityOrState.AssemblyInfoInputs.cache
+C:\RFP\C_sharp\Day-23-UC8-SearchByCityOrState\Day-23-UC8-SearchByCityOrState\obj\Debug\net6.0\Day-23-UC8-SearchByCityOrState.AssemblyInfo.cs
+C:\RFP\C_sharp\Day-23-UC8-SearchByCityOrState\Day-23-UC8-SearchByCityOrState\obj\Debug\net6.0\Day-23-UC8-SearchByCityOrState.csproj.CoreCompileInputs.cache
+C:\RFP\C_sharp\Day-23-UC8-SearchByCityOrState\Day-23-UC8-SearchByCityOrState\obj\Debug\net6.0\Day-23-UC8-SearchByCityOrState.dll
+C:\RFP\C_sharp\Day-23-UC8-SearchByCityOrState\Day-23-UC8-SearchByCityOrState\obj\Debug\net6.0\refint\Day-23-UC8-SearchByCityOrState.dll
+C:\RFP\C_sharp\Day-23-UC8-SearchByCityOrState\Day-23-UC8-SearchByCityOrState\obj\Debug\net6.0\Day-23-UC8-SearchByCityOrState.pdb
+C:\RFP\C_sharp\Day-23-UC8-SearchByCityOrState\Day-23-UC8-SearchByCityOrState\obj\Debug\net6.0\Day-23-UC8-SearchByCityOrState.genruntimeconfig.cache
+C:\RFP\C_sharp\Day-23-UC8-SearchByCityOrState\Day-23-UC8-SearchByCityOrState\obj\Debug\net6.0\ref\Day-23-UC8-SearchByCityOrState.dll
